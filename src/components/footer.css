@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100%;
+    height: auto;
+    background: darkslategrey;
+    color: white;
+    padding-inline: 5vw;
+    padding-block: 2rem;
+}
+
+.row{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+.btn{
+    width: 13%;
+    height: auto;
+    outline: none;
+    border: 1px solid white;
+    background: black;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: crimson;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.copyright{
+    width: 100%;
+    text-align: center;
+}
+
